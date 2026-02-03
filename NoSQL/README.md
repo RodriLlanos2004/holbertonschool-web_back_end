@@ -29,3 +29,7 @@ This directory contains MongoDB scripts for Holberton School back-end projects.
 ## Task 6: Update documents
 - File: 6-update
 - Description: Adds the address field to all documents with name "Holberton school".
+
+## Task 7: Delete documents
+- File: 7-delete
+- Description: Deletes all documents with name "Holberton school".
