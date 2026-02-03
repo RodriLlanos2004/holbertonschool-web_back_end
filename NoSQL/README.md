@@ -17,3 +17,7 @@ This directory contains MongoDB scripts for Holberton School back-end projects.
 ## Task 3: List all documents
 - File: 3-all
 - Description: Lists all documents in the school collection.
+
+## Task 4: Match documents
+- File: 4-match
+- Description: Lists all documents with name "Holberton school".
