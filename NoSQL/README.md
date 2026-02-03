@@ -9,3 +9,7 @@ This directory contains MongoDB scripts for Holberton School back-end projects.
 ## Task 1: Create a database
 - File: 1-use_or_create_database
 - Description: Creates or uses the database my_db.
+
+## Task 2: Insert document
+- File: 2-insert
+- Description: Inserts a document into the school collection.
