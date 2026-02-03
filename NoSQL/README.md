@@ -13,3 +13,7 @@ This directory contains MongoDB scripts for Holberton School back-end projects.
 ## Task 2: Insert document
 - File: 2-insert
 - Description: Inserts a document into the school collection.
+
+## Task 3: List all documents
+- File: 3-all
+- Description: Lists all documents in the school collection.
