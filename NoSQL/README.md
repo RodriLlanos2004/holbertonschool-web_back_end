@@ -1,35 +1,33 @@
 # NoSQL
 
-This directory contains MongoDB scripts for Holberton School back-end projects.
+MongoDB scripts for Holberton School back-end project.
 
-## Task 0: List all databases
-- File: 0-list_databases
-- Description: Lists all databases in MongoDB using the mongo shell.
+## Task 0
+Lists all databases.
 
-## Task 1: Create a database
-- File: 1-use_or_create_database
-- Description: Creates or uses the database my_db.
+## Task 1
+Creates or uses the database my_db.
 
-## Task 2: Insert document
-- File: 2-insert
-- Description: Inserts a document into the school collection.
+## Task 2
+Inserts a document into the school collection.
 
-## Task 3: List all documents
-- File: 3-all
-- Description: Lists all documents in the school collection.
+## Task 3
+Lists all documents in the school collection.
 
-## Task 4: Match documents
-- File: 4-match
-- Description: Lists all documents with name "Holberton school".
+## Task 4
+Lists documents with name "Holberton school".
 
-## Task 5: Count documents
-- File: 5-count
-- Description: Displays the number of documents in the school collection.
+## Task 5
+Counts documents in the school collection.
 
-## Task 6: Update documents
-- File: 6-update
-- Description: Adds the address field to all documents with name "Holberton school".
+## Task 6
+Updates documents adding address field.
 
-## Task 7: Delete documents
-- File: 7-delete
-- Description: Deletes all documents with name "Holberton school".
+## Task 7
+Deletes documents by match.
+
+## Task 8
+Lists all documents using Python.
+
+## Task 9
+Inserts a document using Python.
