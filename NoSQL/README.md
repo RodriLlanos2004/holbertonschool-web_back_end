@@ -25,3 +25,7 @@ This directory contains MongoDB scripts for Holberton School back-end projects.
 ## Task 5: Count documents
 - File: 5-count
 - Description: Displays the number of documents in the school collection.
+
+## Task 6: Update documents
+- File: 6-update
+- Description: Adds the address field to all documents with name "Holberton school".
