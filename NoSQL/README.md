@@ -31,3 +31,6 @@ Lists all documents using Python.
 
 ## Task 9
 Inserts a document using Python.
+
+## Task 11
+Returns the list of schools having a specific topic.
