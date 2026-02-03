@@ -34,3 +34,7 @@ Inserts a document using Python.
 
 ## Task 11
 Returns the list of schools having a specific topic.
+
+## Task 12: Log stats
+- File: 12-log_stats.py
+- Description: Displays stats about Nginx logs stored in MongoDB (logs.nginx).
