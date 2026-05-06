@@ -22,16 +22,4 @@ Este proyecto abarca conceptos avanzados de bases de datos relacionales en MySQL
 * **11-need_meeting.sql**: Crea una **Vista** (`need_meeting`) para filtrar estudiantes que requieren una reunión de seguimiento.
 
 ---
-*Nota: Todos los scripts están diseñados para ser ejecutables directamente desde la consola usando# 1. Salimos de NoSQL y entramos a MySQL_Advanced
-cd ..
-mkdir -p MySQL_Advanced
-cd MySQL_Advanced
-
-# 2. Tarea 0: 0-uniq_users.sql
-cat << 'EOF' > 0-uniq_users.sql
--- Crea una tabla 'users' con atributos id, email (único) y name.
-CREATE TABLE IF NOT EXISTS users (
-    id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
-    email VARCHAR(255) NOT NULL UNIQUE,
-    name VARCHAR(255)
-);
+*Nota: Todos los scripts están diseñados para ser ejecutables directamente desde la consola usando `cat script.sql | mysql -uroot -p holberton`.*
