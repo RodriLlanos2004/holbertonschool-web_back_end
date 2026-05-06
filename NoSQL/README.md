@@ -25,5 +25,3 @@ Este proyecto es una introducción a las bases de datos NoSQL utilizando **Mongo
 * **11-schools_by_topic.py**: Función que busca y devuelve una lista de escuelas que contienen un tema específico.
 * **12-log_stats.py**: Script que se conecta a la base de datos `logs`, analiza la colección `nginx` y provee estadísticas detalladas sobre los métodos HTTP y peticiones de estado.
 
----
-*Nota: Asegúrate de tener MongoDB ejecutándose en el puerto por defecto (27017) y la librería `pymongo` instalada para probar los scripts de Python.*
